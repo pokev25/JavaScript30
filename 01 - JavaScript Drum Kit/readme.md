@@ -2,8 +2,8 @@
 
 동영상 강의의 코드와 FINISHED의 코드의 차이점
 
-- Array.from 
-  - log를 찍어보니 NodeList, Array로 반환되며 내용은 동일함
+- Array.from
+  - log를 찍어보니 NodeList, Array로 반환되며 내용은 동일함
   - Array로 받는것이 깔끔해 보임
 - this 와 e.target
   - e.target과 e.currentTarget에 대한 링크자료 참고
@@ -35,8 +35,8 @@
 
 #### short cut
 
-사이드바 토글 : cmd + b
-MD preview : cmd +k v
+- 사이드바 토글 : cmd + b
+- MD preview : cmd +k v
 
 ### MarkDown Lint
 
