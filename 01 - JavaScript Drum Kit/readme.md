@@ -11,8 +11,8 @@
 - transitionend  : 완료 이벤트
 - ease 에니메이션을 자연스럽게 만든다.
 
-https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+<https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions>
 
-https://developers.google.com/web/fundamentals/design-and-ux/animations/the-basics-of-easing?hl=ko
+<https://developers.google.com/web/fundamentals/design-and-ux/animations/the-basics-of-easing?hl=ko>
 
 
