@@ -61,6 +61,8 @@
 
   function removeTransition(e) {
     if(e.propertyName !== 'transform') return;
+    console.log(e);
+    console.log(this);
     this.classList.remove('playing');
   }
 
@@ -74,6 +76,7 @@
     audio.play();    
   }
   const keys = document.querySelectorAll('.key');
+
   keys.forEach(key => key.addEventListener('transitionend',removeTransition));
   window.addEventListener('keydown', playsound);
 </script>
