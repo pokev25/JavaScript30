@@ -3,8 +3,8 @@
 동영상 강의의 코드와 FINISHED의 코드의 차이점
 
 - Array.from
-  - log를 찍어보니 NodeList, Array로 반환되며 내용은 동일함
-  - Array로 받는것이 깔끔해 보임
+  - log를 찍어보니 NodeList, Array로 반환되며 내용은 동일함
+  - Array로 받는것이 깔끔해 보임
 - this 와 e.target
   - e.target과 e.currentTarget에 대한 링크자료 참고
 
@@ -19,7 +19,7 @@
 <https://developers.google.com/web/fundamentals/design-and-ux/animations/the-basics-of-easing?hl=ko>
 <http://lidaf.tistory.com/38>
 
-## TIL
+## TIL
 
 ### vscode
 
@@ -35,8 +35,8 @@
 
 #### short cut
 
-- 사이드바 토글 : cmd + b
-- MD preview : cmd +k v
+- 사이드바 토글 : cmd + b
+- MD preview : cmd +k v
 
 ### MarkDown Lint
 
@@ -45,4 +45,4 @@
 - 정식 markdown 문서가 아니라 메모용 문서라면 귀찮을 수 있다.
   똑같아 보이는 문장 구조인데 한 문단으로 인식하지 못해서 오류를 표시할 수도 있다
 - 강제 재검사 방법이 있나?
-- order 와 list를 혼용 할 경우 3공백
+- order 와 list를 혼용 할 경우 3공백
